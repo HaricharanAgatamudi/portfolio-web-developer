@@ -1,0 +1,32 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login{
+    margin-left: 19%;
+    display: flex;
+    width: 60%;
+}
+.main{
+    background-color: #000559;
+    width: 50%;
+}
+.details{
+    background-color: #fbfafa;
+    width: 50%;
+}
+.main #ak{
+    color: #0fa336;
+    border: 2px solid #0fa336;
+    max-width: fit-content;
+    margin-left: 2%;
+    padding: 1%;
+    border-radius: 6%;
+}
+.main img{
+    color:#19cf83 ;
+    width: 40%;
+    margin-left: 65%;
+    rotate: -20deg;
+
+}
